@@ -1,0 +1,23 @@
+
+
+.content {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+height: 100vh;
+    /* width: 100%; */
+    /* background-color: rgb(168, 201, 23); */
+}
+
+.middle {
+    width: 50vh;
+    text-align: center;
+    /* background-color: rgb(8, 16, 134); */
+}
+
+.middle > div {
+    padding-bottom: 10px;
+}
+
+
